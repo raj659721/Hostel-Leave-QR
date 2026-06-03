@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.local/
+.replit-artifact/
+.vite/
+.DS_Store

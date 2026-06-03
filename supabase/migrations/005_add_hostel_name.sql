@@ -1,0 +1,1 @@
+-- Legacy migration. Hostel name fields are fully consolidated in 001_init_leave_system_clean.sql.

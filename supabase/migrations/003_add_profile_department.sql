@@ -1,0 +1,1 @@
+-- Legacy migration. Profile department logic is fully consolidated in 001_init_leave_system_clean.sql.
